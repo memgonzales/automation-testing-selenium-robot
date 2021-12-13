@@ -1,6 +1,12 @@
 # Exercise: SeleniumIDE & RobotFramework Practice
 The objective of this exercise is to get acquainted with automation testing of web applications using Selenium and translating it to RobotFramework.
 
+This submission contains the following files and directories:
+
+File/Directory | Description
+-- | --
+<a href = "https://github.com/memgonzales/stsweng-selenium-robot-exercise/blob/master/sauce_demo_selenium_ide.side">`sauce_demo_selenium_ide.side`</a> | .SIDE project file (Selenium IDE recordings)
+
 The screenshots of the passed Selenium and RobotFramework automated tests are shown below:
 
 <img src="https://github.com/memgonzales/stsweng-selenium-robot-exercise/blob/master/Selenium%20IDE_All%20Cases%20Passed.PNG?raw=True" alt="selenium" width = 750> 
