@@ -7,7 +7,7 @@ File/Directory | Description
 -- | --
 <a href = "https://github.com/memgonzales/stsweng-selenium-robot-exercise/blob/master/sauce_demo_selenium_ide.side">`sauce_demo_selenium_ide.side`</a> | `.SIDE` project file (Selenium IDE recordings)
 <a href = "https://github.com/memgonzales/stsweng-selenium-robot-exercise/tree/master/tests">`tests`</a> | Folder containing the `.robot` files (RobotFramework)
-<a href = "https://github.com/memgonzales/stsweng-selenium-robot-exercise/blob/master/log.html">`log.html`</a><br/><a href = "https://github.com/memgonzales/stsweng-selenium-robot-exercise/blob/master/output.xml">`output.html`</a> | Report after running the RobotFramework tests
+<a href = "https://github.com/memgonzales/stsweng-selenium-robot-exercise/blob/master/log.html">`log.html`</a><br/><a href = "https://github.com/memgonzales/stsweng-selenium-robot-exercise/blob/master/output.xml">`output.xml`</a><br/><a href = "https://github.com/memgonzales/stsweng-selenium-robot-exercise/blob/master/report.html">`report.html`</a> | Report after running the RobotFramework tests
 
 The screenshots of the passed Selenium and RobotFramework automated tests are shown below:
 
