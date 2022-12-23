@@ -1,7 +1,7 @@
 # SeleniumIDE & RobotFramework Exercise
 ![badge][badge-selenium]
 
-The objective of this exercise is to introduce students to **automated testing of web applications** using [Selenium](https://www.selenium.dev/) and [RobotFramework](https://robotframework.org/).
+The objective of this exercise is to introduce students to **automated testing of web applications** using [SeleniumIDE](https://www.selenium.dev/selenium-ide/) and [RobotFramework](https://robotframework.org/).
 
 This is an exercise in an advanced software engineering class under Ms. Unisse C. Chua of the Department of Software Technology, De La Salle University.
 
