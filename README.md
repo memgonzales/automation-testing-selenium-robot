@@ -1,7 +1,7 @@
-# SeleniumIDE & RobotFramework Exercise
+# Selenium IDE & RobotFramework Exercise
 ![badge][badge-selenium]
 
-The objective of this exercise is to introduce students to **automated testing of web applications** using [SeleniumIDE](https://www.selenium.dev/selenium-ide/) and [RobotFramework](https://robotframework.org/).
+The objective of this exercise is to introduce students to **automation testing of web applications** using [Selenium IDE](https://www.selenium.dev/selenium-ide/) and translating the tests to [RobotFramework](https://robotframework.org/).
 
 This is an exercise in an advanced software engineering class under Ms. Unisse C. Chua of the Department of Software Technology, De La Salle University.
 
@@ -15,7 +15,7 @@ File/Directory | Description
 <a href = "https://github.com/memgonzales/stsweng-selenium-robot-exercise/blob/master/log.html">`log.html`</a><br/><a href = "https://github.com/memgonzales/stsweng-selenium-robot-exercise/blob/master/output.xml">`output.xml`</a><br/><a href = "https://github.com/memgonzales/stsweng-selenium-robot-exercise/blob/master/report.html">`report.html`</a> | Report after running the RobotFramework tests
 
 ## Screenshots
-The screenshots of the passed Selenium and RobotFramework automated tests are shown below:
+The screenshots of the passed Selenium IDE and RobotFramework automated tests are shown below:
 
 <img src="https://github.com/memgonzales/stsweng-selenium-robot-exercise/blob/master/Selenium%20IDE_All%20Cases%20Passed.PNG?raw=True" alt="selenium" width = 750> 
 
