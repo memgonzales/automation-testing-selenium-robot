@@ -7,12 +7,12 @@ The objective of this exercise is to introduce students to **automation testing 
 This is an exercise in an advanced software engineering class under Ms. Unisse C. Chua of the Department of Software Technology, De La Salle University. The instructions are as follows:
 
 1. Go to [SauceDemo.com](https://www.saucedemo.com/) (this is a dummy/fake website for practicing automation tests).
-2. Try out the different username and account combinations to see what happens.
+2. Try out different username and account combinations to see what happens.
 3. Follow the test steps below and record the steps using the Selenium IDE.
-4. Add an assertion step based on what you've observed the expected outcome should be (from Step 2). <br/>
+4. Add an assertion step based on what you have observed the expected outcome should be (from Step 2). <br/>
    Note: It is not going to be a check on the page title because they do not change the page title. 
 5. Save the scripts as an `.SIDE` project for reference for your RobotFramework scripts.
-6. Update your initial RobotFramework exercise scripts to have the following test cases below:
+6. Update your initial RobotFramework exercise scripts to have the following test cases:
    - Successful user log in
    - Unsuccessful user log in by a locked out user
    - Typed wrong password
